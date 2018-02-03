@@ -37,7 +37,8 @@ After we got off the plane, we took an Uber to the city center. It takes about h
 ![Image of foods in ho chi minh]({{ site.url }}/assets/img/18hochiminh/3.jpg)
 
 <p class="thai">
-อาหารที่เห็นได้ตามทั่วไปของที่นี่ก็จะเป็นแซนวิช ชิ้นใหญ่ใส้แน่น (ที่มีราคาเพียง 20,000 ดอง หรือ 30 บาทเท่านั้น) และก๋วยเตี๋ยว หรือน่าจะที่เรียกกันว่าก๋วยจั๊บเวียดนามนั่นเอง ส่วนเรื่องของราคาอาหารถ้าเป็นร้านข้างทางก็อยู่ที่ 20,000-25,000 ดอง (หรือ 30 บาท) ถ้าเป็นร้านเหมือนอาหารตามสั่งบ้านเราราคาก็จะอยู่ที่ประมาณ 30,000-60,000 ดอง (หรือ 45-90 บาท) ร้านที่แพงขึ้นมาหน่อยก็ 80,000-200,000 (หรือ 120-300 บาท) ส่วนน้ำเปล่าตามร้านทั่วไปก็ขวดละ 7,000-10,000 ดอง ก็ประมาณ 10-15 บาท พอๆกับที่ไทยค่ะ
+ค่าเงินของที่นี่จะคิดเป็นเงินดองเวียดนาม ซึ่ง 10,000 ดอง = 14-15 บาทไทย (แล้วแต่เรทและช่วงเวลา)
+ส่วนอาหารที่เห็นได้ตามทั่วไปของที่นี่ก็จะเป็นแซนวิช ชิ้นใหญ่ใส้แน่น (ที่มีราคาเพียง 20,000 ดอง หรือ 30 บาทเท่านั้น) และก๋วยเตี๋ยว หรือน่าจะที่เรียกกันว่าก๋วยจั๊บเวียดนามนั่นเอง ส่วนเรื่องของราคาอาหารถ้าเป็นร้านข้างทางก็อยู่ที่ 20,000-25,000 ดอง (หรือ 30 บาท) ถ้าเป็นร้านเหมือนอาหารตามสั่งบ้านเราราคาก็จะอยู่ที่ประมาณ 30,000-60,000 ดอง (หรือ 45-90 บาท) ร้านที่แพงขึ้นมาหน่อยก็ 80,000-200,000 (หรือ 120-300 บาท) ส่วนน้ำเปล่าตามร้านทั่วไปก็ขวดละ 7,000-10,000 ดอง ก็ประมาณ 10-15 บาท พอๆกับที่ไทยค่ะ
 </p>   
 
 <p class="english hide">
@@ -67,20 +68,20 @@ The landmarks that we had the opportunity to visit were the Saigon Center Post O
     <li>ค่าตั๋วเครื่องบินขาไป 2 คน = 3,520 บาท</li>
     <li>ค่าอูเบอร์จากสนามบินไปที่พัก = 180 บาท</li>
     <li>ค่าอูเบอร์จากที่พักไปสนามบิน = 165 บาท</li>
-    <li>ค่าที่พัก 2 คืน = 980 บาท</li>
+    <li>ค่าที่พัก 2 คืน = 950 บาท</li>
     <li>ค่าอาหาร 4 มื้อ = 600 บาท</li>
 </ul>
-<h3 class="thai">รวม = 5,445 บาท</h3>
+<h3 class="thai">รวม = 5,415 บาท</h3>
 
-<h3 class="english hide">Costs</h3>
+<h3 class="english hide">Costs ( 2 ppl / 2 nights )</h3>
 <ul class="english hide">
-    <li>Flights (2 people, one way BKK-SGN) = 3,520 THB</li>
-    <li>Uber (airport to hotel) = 180 THB</li>
-    <li>Uber (hotel to airport) = 165 THB</li>
-    <li>Hotel (2 nights, private room) = 980 THB</li>
-    <li>Food (4 meals x 2 people) = 600 THB</li>
+    <li>Flights (2 people, one way BKK-SGN) = $104</li>
+    <li>Uber (airport to hotel) = $5</li>
+    <li>Uber (hotel to airport) = $5</li>
+    <li>Hotel (2 nights, private room) = $28</li>
+    <li>Food (4 meals x 2 people) = $18</li>
 </ul>
-<h3 class="english hide">Total = 5,445 THB</h3>
+<h3 class="english hide">Total = $160</h3>
 
 <p class="thai">**รูปจากกล้องโทรศัพท์มือถือ moto g5s plus (กล้องสด ไม่มีการปรับแต่งอะไรใดๆทั้งสิ้น)</p>  
 <p class="english hide">Photos from moto g5s plus (no photoshop)</p>
