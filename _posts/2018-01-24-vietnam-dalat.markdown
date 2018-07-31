@@ -4,7 +4,7 @@ title: "Vietnam - Da Lat"
 img: 20dalat/cover.jpg # Add image post (optional)
 date: 2018-01-24 13:00:00 +0700
 description:
-tag: [Travel, Blogging, Datanla, waterfall, flower park, night market, crazy house, Vietnam, ดาลัด, เวียดนาม]
+tag: [Travel, Blogging, Datanla, waterfall, flower park, night market, crazy house, Vietnam, ดาลัด, เวียดนาม, English]
 ---
 
 <p class="thai">
